@@ -94,7 +94,11 @@ His focus on trust, reliability, and customer satisfaction has helped build a so
 🌐 Visit Official Website
 </a>
 
-
+## 🌟 Highlights
+- 🏡 2 Completed Projects  
+- 🏘️ 233+ Villas Delivered  
+- 📍 Located in Andhra Pradesh  
+- 🤝 Trusted by Homeowners  
 
 
 
