@@ -100,7 +100,9 @@ His focus on trust, reliability, and customer satisfaction has helped build a so
 - 📍 Located in Andhra Pradesh  
 - 🤝 Trusted by Homeowners  
 
-
+<a href="https://maps.google.com/?q=Puttaparthi,Andhra+Pradesh" target="_blank" style="display:inline-block;padding:10px 18px;background-color:#800000;color:white;text-decoration:none;border-radius:8px;font-weight:bold;">
+📍 View Location on Google Maps
+</a>
 
 ## 📢 Disclaimer
 
