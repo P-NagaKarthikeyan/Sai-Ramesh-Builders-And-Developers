@@ -1,0 +1,63 @@
+/* Reset some default styles */
+body {
+    margin: 0;
+    font-family: Arial, sans-serif;
+    background-color: #0d1117;
+    color: #c9d1d9;
+}
+
+/* Container */
+.container {
+    max-width: 1000px;
+    margin: auto;
+    padding: 20px;
+}
+
+/* Headings */
+h1, h2, h3 {
+    color: #58a6ff;
+}
+
+/* Cards (sections) */
+.card {
+    background-color: #161b22;
+    padding: 20px;
+    margin: 20px 0;
+    border-radius: 12px;
+    box-shadow: 0 0 10px rgba(0,0,0,0.5);
+}
+
+/* Lists */
+ul {
+    line-height: 1.8;
+}
+
+/* Button */
+.btn {
+    display: inline-block;
+    padding: 12px 20px;
+    background-color: #800000;
+    color: white;
+    text-decoration: none;
+    border-radius: 8px;
+    font-weight: bold;
+    transition: 0.3s;
+}
+
+/* Button hover */
+.btn:hover {
+    background-color: #a52a2a;
+}
+
+/* Footer */
+footer {
+    text-align: center;
+    margin-top: 30px;
+    color: #8b949e;
+}
+
+/* Image styling */
+img {
+    width: 100%;
+    border-radius: 10px;
+}
