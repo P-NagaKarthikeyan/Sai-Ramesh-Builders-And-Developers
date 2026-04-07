@@ -77,6 +77,34 @@ Stay tuned for upcoming developments and new communities!
 
 ---
 
+## 👤 Founder & Owner
+
+### Penakalapati Ramesh
+
+Penakalapati Ramesh is the founder and owner of Sai Ramesh Builders & Developers. With a strong vision for quality construction and community development, he has successfully led the company in delivering well-planned residential villa projects.
+
+His focus on trust, reliability, and customer satisfaction has helped build a solid reputation in the real estate sector. Under his leadership, the company continues to grow and develop modern housing communities that provide comfort and long-term value.
+
+---
+
+📸 **Owner Image:**
+<img width="880" height="479" alt="image" src="https://github.com/user-attachments/assets/c9bc88a6-bb3e-4ac8-b818-8f69e2b2b1de" />
+<a href="https://sairamesh.in" target="_blank" style="
+ display: inline-block;
+ padding: 12px 20px;
+ background-color: #800000;
+ color: white;
+ text-decoration: none;
+ border-radius: 8px;
+ font-weight: bold;
+ transition: 0.3s;
+">
+🌐 Visit Official Website </a>
+
+
+
+
+
 ## 📢 Disclaimer
 
 Project details are based on provided information. Please verify official details with the company.
