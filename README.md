@@ -2,10 +2,10 @@
 
 ### Building Homes. Creating Trust.
 
-Welcome to **Sai Ramesh Builders & Developers** — a growing real estate and construction firm based in India.
-
 📌 Founder with a vision to deliver quality housing and build lasting trust in the real estate sector
 ---
+
+Welcome to **Sai Ramesh Builders & Developers** — a growing real estate and construction firm based in India.
 
 ## 📍 About the Company
 
